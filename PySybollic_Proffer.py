@@ -1,3 +1,5 @@
+# Bismillahi Rahmani Rahim
+
 # =============================================================================
 #
 #       LNL (Logical Numeral Linguido): A Unified Framework for Neuro-Symbolic Verification
@@ -860,3 +862,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Alhamdulillahi Rabbil Alamin

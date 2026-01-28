@@ -1,10 +1,7 @@
-"# SyLogic__Test" 
-Author Maulidi Barasa
-Here is a comprehensive `README.md` for the **LNL-Tessera** framework.
-
 ***
 
 # LNL-Tessera: Unified Neuro-Symbolic Verification Framework
+# Author Maulidi Barasa
 ### Version 4.5 (Stable)
 
 **LNL-Tessera** is a research-grade framework that unifies constructive type theory, geometric algebra, and neuro-symbolic reasoning into a single verification engine. It allows for the formalization of natural language, the manipulation of high-dimensional geometric objects, and the verification of logic using both rigorous kernel-based checking and probabilistic neural attention mechanisms.

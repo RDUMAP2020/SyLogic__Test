@@ -2,7 +2,7 @@
 
 # LNL-Tessera: Unified Neuro-Symbolic Verification Framework
 # Author Maulidi Barasa
-### Version 4.5 (Stable)
+### Version 1.0
 
 **LNL-Tessera** is a research-grade framework that unifies constructive type theory, geometric algebra, and neuro-symbolic reasoning into a single verification engine. It allows for the formalization of natural language, the manipulation of high-dimensional geometric objects, and the verification of logic using both rigorous kernel-based checking and probabilistic neural attention mechanisms.
 
@@ -14,7 +14,7 @@
 *   **Trusted Kernel:** A minimal `KernelVerifier` responsible for type inference and checking, ensuring logical soundness.
 
 # LNL-Tessera: Unified Neuro-Symbolic Verification Framework
-### Version 4.5 (Stable)
+### Version 1.0
 
 **LNL-Tessera** is a research-grade framework that unifies constructive type theory, geometric algebra, and neuro-symbolic reasoning into a single verification engine. It allows for the formalization of natural language, the manipulation of high-dimensional geometric objects, and the verification of logic using both rigorous kernel-based checking and probabilistic neural attention mechanisms.
 
@@ -138,7 +138,7 @@ Although provided as a monolithic script for portability, the internal architect
 
 ## ⚠️ Notes on Stability
 
-*   **Version 4.5** fixes critical bugs regarding variable scoping in `exec()` calls, indentation handling in the DSL, and robust dependency checking.
+*   **Version 1.0** fixes critical bugs regarding variable scoping in `exec()` calls, indentation handling in the DSL, and robust dependency checking.
 *   The **Autoformalizer** now correctly shares the Global Context (`initial_context`) with the interpreter, allowing "Let" declarations in one test to be visible in the environment.
 
 ## 📄 License

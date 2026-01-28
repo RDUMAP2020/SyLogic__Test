@@ -15,6 +15,18 @@ Here is a comprehensive `README.md` for the **LNL-Tessera** framework.
 *   **Term Structures:** Supports $\Pi$-types (forall/implies), $\Sigma$-types (exists), Lambda abstractions, and Propositional Equality.
 *   **Trusted Kernel:** A minimal `KernelVerifier` responsible for type inference and checking, ensuring logical soundness.
 
+# LNL-Tessera: Unified Neuro-Symbolic Verification Framework
+### Version 4.5 (Stable)
+
+**LNL-Tessera** is a research-grade framework that unifies constructive type theory, geometric algebra, and neuro-symbolic reasoning into a single verification engine. It allows for the formalization of natural language, the manipulation of high-dimensional geometric objects, and the verification of logic using both rigorous kernel-based checking and probabilistic neural attention mechanisms.
+
+## 🌟 Key Features
+
+### 1. 🧠 Constructive Logic Kernel (`lnl_core`)
+*   **Dependently Typed Lambda Calculus:** Implements a core calculus similar to the Calculus of Constructions (CoC).
+*   **Term Structures:** Supports $\Pi$-types (forall/implies), $\Sigma$-types (exists), Lambda abstractions, and Propositional Equality.
+*   **Trusted Kernel:** A minimal `KernelVerifier` responsible for type inference and checking, ensuring logical soundness.
+
 ### 2. 📐 Geometric Algebra Engine (`lnl_numero`)
 *   **Euclidean geometric algebra (G4):** Native support for multivectors in 4D space.
 *   **Blade Logic:** Operations for geometric products, addition, and basis blade manipulation.

@@ -1,4 +1,5 @@
 "# SyLogic__Test" 
+Author Maulidi Barasa
 Here is a comprehensive `README.md` for the **LNL-Tessera** framework.
 
 ***
@@ -145,4 +146,3 @@ Although provided as a monolithic script for portability, the internal architect
 
 ## 📄 License
 Open Source / MIT License.
-*Developed for the LNL-Tessera Research Project.*

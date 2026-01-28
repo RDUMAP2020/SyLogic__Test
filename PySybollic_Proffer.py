@@ -4,6 +4,8 @@
 #
 # =============================================================================
 
+# Author Maulidi Barasa
+
 # Standard library imports
 import re
 import io
